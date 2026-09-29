@@ -1,437 +1,261 @@
-# 👋 Hey, I'm Eshwar Gajula
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=180&section=header&text=Eshwar%20Gajula&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+# `ESHwar.exe`
 
-<p align="center">
-  <strong>AI Engineering • Cybersecurity • Red Teaming • Autonomous Systems</strong>
-</p>
+### **Eshwar Gajula**
 
-<p align="center">
-  <a href="https://github.com/eshwar-gajula">
-    <img src="https://img.shields.io/github/followers/eshwar-gajula?style=for-the-badge&logo=github&label=Followers" />
-  </a>
-  <a href="https://github.com/eshwar-gajula?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=eshwar-gajula&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+**AI Engineer in Progress · Cybersecurity Enthusiast · Red Team Learner · Systems Builder**
 
----
+<br>
 
-## 🧠 Who Am I?
+> **Building intelligence. Engineering security. Automating execution.**
 
-I'm **Eshwar Gajula**, a developer and cybersecurity learner focused on the intersection of:
+<br>
 
-```text
-Artificial Intelligence
-        ×
-Cybersecurity
-        ×
-Software Engineering
-        ×
-Autonomous Systems
-        ×
-Automation
-```
+<a href="https://github.com/eshwar-gajula">
+<img src="https://img.shields.io/badge/GitHub-eshwar--gajula-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:eshwargajula31@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-I'm particularly interested in understanding how complex systems work internally — and then building systems that can **reason, execute, observe, verify, and improve**.
-
-My current focus is building **ECHA**, a long-term AI + cybersecurity engineering ecosystem.
-
-> **Build systems. Understand systems. Break systems safely. Secure systems. Automate systems.**
+</div>
 
 ---
 
-# ⚡ ECHA — Echelon Cybernetic Heuristic Aegis
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ECHA-Echelon%20Cybernetic%20Heuristic%20Aegis-111827?style=for-the-badge" />
-</p>
-
-> ### **Precision in shadows.**
-
-**ECHA** is my long-term engineering project.
-
-The goal is to build a modular ecosystem combining:
-
-* 🤖 Autonomous AI agents
-* 🛡️ Cybersecurity tooling
-* 🔎 Reconnaissance
-* ⚙️ Automation
-* 🧠 Local LLMs
-* 🛠️ Tool orchestration
-* 🔐 Permission systems
-* 🧾 Auditing
-* ✅ Verification
-* 🌐 Future distributed workers
-
-The core philosophy is:
+## 🧬 `whoami`
 
 ```text
-Understand
-    ↓
-Plan
-    ↓
-Select Tools
-    ↓
-Execute
-    ↓
-Observe
-    ↓
-Verify
-    ↓
-Recover
-    ↓
-Improve
+Name       : Eshwar Gajula
+Focus      : AI × Cybersecurity × Systems Engineering
+Current    : Building ECHA
+Interests  : AI Agents, Red Teaming, Local AI, Automation
+Environment: Linux / Development / Security Labs
+
+Mission:
+    Build systems that can reason, operate, verify,
+    recover, and continuously improve.
 ```
 
-ECHA is not intended to be just another chatbot.
+I'm a developer focused on the intersection of **Artificial Intelligence, Cybersecurity, Autonomous Agents, and Systems Engineering**.
 
-The objective is to build a **controlled autonomous engineering system**.
+I like understanding systems from the inside out — how software executes, how networks communicate, how applications fail, how vulnerabilities emerge, and how intelligent systems can be engineered to operate tools safely.
+
+My main long-term project is **ECHA**.
+
+---
+
+# ⚡ ECHA
+
+<div align="center">
+
+## `Echelon Cybernetic Heuristic Aegis`
+
+### **Precision in shadows.**
+
+</div>
+
+ECHA is my long-term attempt to combine **AI agents, cybersecurity, automation, local intelligence, and controlled execution** into one evolving ecosystem.
+
+The goal isn't to make another chatbot.
+
+The goal is to build an **engineering system that can understand a task, plan it, use tools, observe what happened, verify the result, and recover when something fails.**
+
+```text
+                       ┌─────────────────┐
+                       │      ECHA       │
+                       │  AI + Security  │
+                       └────────┬────────┘
+                                │
+                 ┌──────────────┴──────────────┐
+                 │                             │
+          ┌──────▼──────┐               ┌──────▼──────┐
+          │ ECHA Agent  │               │ ECHA Shell  │
+          │    Brain    │               │  Interface  │
+          └──────┬──────┘               └─────────────┘
+                 │
+        ┌────────┼────────┐
+        ▼        ▼        ▼
+     Tools    Memory   Security
+        │        │        │
+        └────────┼────────┘
+                 ▼
+          Permission Layer
+                 │
+                 ▼
+             Execution
+                 │
+                 ▼
+            Observation
+                 │
+                 ▼
+            Verification
+                 │
+                 ▼
+              Auditing
+                 │
+                 ▼
+             Recovery
+```
+
+### ECHA's core loop
+
+```text
+UNDERSTAND
+     ↓
+  PLAN
+     ↓
+SELECT TOOLS
+     ↓
+ EXECUTE
+     ↓
+ OBSERVE
+     ↓
+ VERIFY
+     ↓
+ RECOVER
+     ↓
+ IMPROVE
+```
 
 ---
 
 # 🤖 ECHA Agent
 
-**ECHA Agent** is the intelligence and automation layer of the ECHA ecosystem.
+### `The intelligence layer`
 
-### Current direction
+**ECHA Agent** is a TypeScript-based autonomous engineering and security agent currently being developed around local LLM execution and controlled tool orchestration.
+
+### Current architecture
 
 ```text
-┌──────────────────────────────┐
-│          ECHA Agent           │
-│        TypeScript Core        │
-└───────────────┬──────────────┘
-                │
-                ▼
-       ┌─────────────────┐
-       │    OpenAI SDK   │
-       └────────┬────────┘
-                │
-                ▼
-       ┌─────────────────┐
-       │    OmniRoute    │
-       │  Model Gateway  │
-       └────────┬────────┘
-                │
-                ▼
-       ┌─────────────────┐
-       │      Ollama     │
-       └────────┬────────┘
-                │
-                ▼
-       ┌─────────────────┐
-       │ Qwen Coder LLM  │
-       │   Local Model   │
-       └─────────────────┘
+                 ┌──────────────────────┐
+                 │      ECHA Agent      │
+                 │    TypeScript Core   │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │   OpenAI SDK  │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │   OmniRoute   │
+                    │ Model Gateway │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    Ollama     │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │ Qwen Coder LLM│
+                    │ Local Runtime │
+                    └───────────────┘
 ```
 
-### 🧩 Agent capabilities being engineered
+### Engineering around the agent
 
-* 🧠 Planning
-* 🛠️ Tool selection
+* 🧠 Planning & reasoning
+* 🛠️ Tool Registry
 * 📁 Filesystem operations
 * 💻 Terminal execution
-* 🌿 Git workflows
+* 🌿 Git operations
 * 🌐 Browser/search integration
 * 🧠 Memory
 * 🔐 Permissions
 * 🧾 Auditing
 * ✅ Verification
 * ♻️ Recovery
-* 🔌 Extensible tool registry
+* 🔌 Extensible architecture
 
-The architecture is intentionally being built **layer by layer** rather than attempting uncontrolled autonomy from day one.
+The architecture is intentionally being developed **incrementally and with controlled execution boundaries**.
 
 ---
 
 # 🖥️ ECHA Shell
 
-**ECHA Shell** is the desktop interface for the ECHA ecosystem.
+### `The interface layer`
 
-Built with:
+ECHA Shell is the desktop environment being developed as the primary interface for the ECHA ecosystem.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tauri,react,ts,rust,vite" />
+**Stack**
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tauri,react,ts,rust,vite&theme=dark" />
 </p>
 
-### Architecture
-
 ```text
-              ┌────────────────────┐
-              │     ECHA Shell     │
-              │    Desktop UI      │
-              └─────────┬──────────┘
-                        │
-                        ▼
-              ┌────────────────────┐
-              │    ECHA Agent      │
-              │ Autonomous Core    │
-              └─────────┬──────────┘
-                        │
-          ┌─────────────┼─────────────┐
-          ▼             ▼             ▼
-      Filesystem     Terminal        Git
-          │             │             │
-          └─────────────┼─────────────┘
-                        ▼
-                 Tool Registry
-                        │
-                        ▼
-                Permission Layer
-                        │
-                        ▼
-                 Verification
-                        │
-                        ▼
-                    Audit
+ECHA Agent  →  Intelligence
+ECHA Shell  →  Interface
+ECHA Tools  →  Capabilities
+ECHA Policy  →  Control
+ECHA Audit  →  Accountability
 ```
 
-> **ECHA Agent is the brain. ECHA Shell is the interface.**
+> **The Agent is the brain. The Shell is the interface.**
 
-🔗 **[Explore ECHA Shell](https://github.com/eshwar-gajula/ECHA-shell)**
+🔗 **[Explore ECHA Shell →](https://github.com/eshwar-gajula/ECHA-shell)**
 
 ---
 
 # 🛡️ Cybersecurity
 
-Cybersecurity is one of my primary areas of interest.
+My cybersecurity focus is centered around **practical offensive-security learning and security engineering**.
 
-I'm currently focused on developing practical skills in:
-
-### 🔴 Offensive Security
-
-* Red Teaming
-* Reconnaissance
-* Vulnerability Assessment
-* Web Application Security
-* Network Security
-* Linux Security
-* Security Automation
-* Adversary Simulation
-* Security Tool Development
-
-### 🟠 Application Security
-
-* OWASP Top 10
-* Secure Code Review
-* Input Validation
-* SAST Concepts
-* DAST Concepts
-* Vulnerability Analysis
-* Secure Development
-
-### 🔵 Defensive Understanding
-
-Understanding offensive techniques also helps me understand:
-
-* Detection
-* Hardening
-* Monitoring
-* Attack surfaces
-* Security controls
-* Failure modes
-* Defensive engineering
-
-My goal is not simply to operate existing tools.
-
-I want to understand **how security tools work internally and eventually build my own**.
-
----
-
-# 🔬 Security Engineering
-
-Some of the areas I'm experimenting with include:
+### 🔴 Areas of focus
 
 ```text
+Red Teaming
 Reconnaissance
-     │
-     ▼
-Asset Discovery
-     │
-     ▼
-Service Enumeration
-     │
-     ▼
-Technology Detection
-     │
-     ▼
+Web Application Security
+Network Security
+Linux Security
 Vulnerability Assessment
-     │
-     ▼
-Evidence Collection
-     │
-     ▼
-Verification
-     │
-     ▼
-Security Report
+Application Security
+Security Automation
+Adversary Simulation
+Security Tool Development
 ```
 
-The long-term direction is to incorporate these capabilities into the broader ECHA ecosystem.
-
----
-
-# 💻 Tech Stack
-
-## 🧠 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cs,bash" />
-</p>
-
-`Python` · `TypeScript` · `JavaScript` · `Java` · `C#` · `Bash`
-
----
-
-## 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qwen-5B4BDB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
-`LLMs` · `Local LLMs` · `Ollama` · `Qwen` · `OpenAI SDK` · `OmniRoute` · `Transformers` · `PEFT` · `BitsAndBytes` · `Accelerate`
-
----
-
-## 🧩 AI Agent Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs" />
-</p>
-
-`Agent Architecture` · `Planning` · `Tool Calling` · `Tool Registry` · `Execution Engines` · `Memory` · `Permissions` · `Auditing` · `Verification` · `Recovery`
-
----
-
-## 🛡️ Cybersecurity
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security%20Automation-111827?style=for-the-badge&logoColor=white" />
-</p>
-
-`Red Teaming` · `Reconnaissance` · `Web Security` · `Network Security` · `Vulnerability Assessment` · `Secure Code Review` · `SAST / DAST` · `Linux Security`
-
----
-
-## 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,nodejs,flask" />
-</p>
-
-`React` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Node.js` · `Flask`
-
----
-
-## 🖥️ Desktop & Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tauri,rust,linux,vite" />
-</p>
-
-`Tauri` · `Rust` · `Linux` · `Vite` · `System Administration` · `TCP/IP` · `HTTP/HTTPS`
-
----
-
-## ⚙️ DevOps & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,githubactions" />
-</p>
-
-`Git` · `GitHub` · `Docker` · `CI/CD` · `GitHub Actions` · `Shell Scripting` · `Security Automation`
-
----
-
-## 🗄️ Databases & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-`MySQL` · `SQLite` · `PostgreSQL` · `Pandas` · `NumPy`
-
----
-
-# 🧬 ECHA Technology Core
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,rust,tauri,nodejs,python,linux,docker,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OmniRoute-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qwen-5B4BDB?style=for-the-badge&logoColor=white" />
-</p>
+### 🧪 Application Security
 
 ```text
-                         ECHA
-                          │
-              ┌───────────┴───────────┐
-              │                       │
-         ECHA Shell              ECHA Agent
-              │                       │
-       React + Tauri          TypeScript + Node
-              │                       │
-            Rust               OpenAI SDK
-                                      │
-                                  OmniRoute
-                                      │
-                                   Ollama
-                                      │
-                                Qwen Coder
-                                      │
-                    ┌─────────────────┼─────────────────┐
-                    │                 │                 │
-                Filesystem         Terminal            Git
-                    │                 │                 │
-                Browser           Security           Memory
-                    │                 │                 │
-                    └─────────────────┼─────────────────┘
-                                      │
-                                Permissions
-                                      │
-                                Verification
-                                      │
-                                  Auditing
+OWASP Top 10
+Secure Code Review
+Input Validation
+SAST Concepts
+DAST Concepts
+Vulnerability Assessment
+Security Testing
 ```
+
+I'm interested in understanding offensive techniques so I can reason about **attack surfaces, vulnerabilities, detection, hardening, and defensive controls**.
+
+My goal is to eventually build security tooling rather than simply depend on existing tools.
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
+
+I prefer keeping this section intentionally small.
+
+These are the projects that best represent the direction I'm heading.
+
+---
 
 ## ⚡ ECHA Shell
 
-**Modular Desktop Environment for the ECHA ecosystem**
+**Modular Desktop Environment for the ECHA Ecosystem**
 
-**Stack:** `Tauri` `React` `TypeScript` `Rust` `Vite`
+`Tauri` `React` `TypeScript` `Rust` `Vite`
 
-A desktop shell designed to become the primary interface for ECHA Agent and future ECHA tooling.
+The UI and desktop environment for the broader ECHA ecosystem.
 
-🔗 [Repository](https://github.com/eshwar-gajula/ECHA-shell)
+🔗 [GitHub Repository](https://github.com/eshwar-gajula/ECHA-shell)
 
 ---
 
@@ -439,263 +263,347 @@ A desktop shell designed to become the primary interface for ECHA Agent and futu
 
 **Autonomous Engineering & Security Agent**
 
-**Stack:** `TypeScript` `OpenAI SDK` `OmniRoute` `Ollama` `Qwen`
+`TypeScript` `OpenAI SDK` `OmniRoute` `Ollama` `Qwen`
 
-Currently developing a controlled agent architecture for local LLM-powered planning, tool selection, execution, memory, permissions, auditing, and verification.
+The intelligence and automation layer behind ECHA.
 
----
-
-## 🔎 Security Reconnaissance
-
-Python-based reconnaissance experiments focused on collecting useful information about authorized web targets and organizing the results into structured data.
-
-**Stack:** `Python` `HTTP` `DNS` `JSON`
+Currently focused on controlled planning, tool selection, execution, memory, permissions, auditing, and verification.
 
 ---
 
-## 📊 Log Analyzer
+## 🔎 Security Recon
 
-A project focused on analyzing system/application logs and extracting useful information from raw event data.
+**Security reconnaissance and information-gathering experiments**
 
-**Stack:** `Python`
+`Python` `HTTP` `DNS` `JSON` `Linux`
 
----
-
-## 🖥️ Linux Monitor
-
-A Linux system-monitoring project focused on observing system resources and operational state.
-
-**Stack:** `Python` `Linux`
+A collection of security-focused experiments around structured reconnaissance and analysis in authorized environments.
 
 ---
 
 ## 🧪 Automated Testing
 
-Exploring browser and application testing through automation.
+**Browser and application automation experiments**
 
-**Stack:** `Playwright` `JavaScript/TypeScript`
+`Playwright` `JavaScript` `TypeScript`
 
----
-
-# 🧠 My Engineering Philosophy
-
-I prefer building systems through an iterative engineering loop:
-
-```text
-             ┌─────────────┐
-             │   Problem   │
-             └──────┬──────┘
-                    ▼
-             ┌─────────────┐
-             │ Understand  │
-             └──────┬──────┘
-                    ▼
-             ┌─────────────┐
-             │    Plan     │
-             └──────┬──────┘
-                    ▼
-             ┌─────────────┐
-             │    Build    │
-             └──────┬──────┘
-                    ▼
-             ┌─────────────┐
-             │    Test     │
-             └──────┬──────┘
-                    ▼
-             ┌─────────────┐
-             │   Verify    │
-             └──────┬──────┘
-                    ▼
-             ┌─────────────┐
-             │   Improve   │
-             └──────┬──────┘
-                    │
-                    └──────────► Repeat
-```
-
-### Principles
-
-* 🧱 Architecture before unnecessary complexity
-* 🔐 Security by design
-* 🧪 Test assumptions
-* ✅ Verify results
-* 📊 Observe execution
-* 🧾 Keep an audit trail
-* ♻️ Design for failure recovery
-* 🧩 Prefer modular systems
-* ⚙️ Automate repetitive work
-* 🧠 Use AI as an engineering multiplier
+Exploring automated testing, application behavior, and repeatable verification workflows.
 
 ---
 
-# 🔥 How I Learn
+# 💻 Tech Stack
 
-My preferred learning cycle is:
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Understand
-  ↓
-Secure
-  ↓
-Rebuild
-```
-
-I learn best by building real systems, experimenting in controlled environments, debugging failures, and understanding why something works rather than simply memorizing commands.
-
----
-
-# 📚 Current Learning Areas
-
-### Cybersecurity
-
-* 🔴 Red Teaming
-* 🔎 Reconnaissance
-* 🌐 Web Application Security
-* 🌐 Network Security
-* 🐧 Linux Security
-* 🧪 Vulnerability Assessment
-* 🛡️ Application Security
-* ⚙️ Security Automation
-
-### AI
-
-* 🤖 Local LLMs
-* 🧠 AI Agents
-* 🛠️ Tool Calling
-* 🗺️ Agent Planning
-* 🧠 Memory Architecture
-* 🔐 Controlled Autonomy
-* ✅ Agent Verification
-* 🔄 Execution Recovery
-
-### Engineering
-
-* 🏗️ System Architecture
-* ⚙️ Automation
-* 🐳 Containers
-* 🌐 Networking
-* 🖥️ Systems Engineering
-* 🔧 Developer Tooling
-
----
-
-# 🎯 Long-Term Vision
-
-My long-term objective is to become a strong **Cybersecurity / Red Team engineer** while developing deep expertise in **AI-powered automation and systems engineering**.
-
-I want ECHA to eventually evolve from a collection of projects into a coherent platform combining:
-
-```text
-                 ┌─────────────────┐
-                 │ Artificial      │
-                 │ Intelligence    │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Autonomous      │
-                 │ Engineering     │
-                 └────────┬────────┘
-                          │
-            ┌─────────────┼─────────────┐
-            ▼             ▼             ▼
-        Security      Automation      Systems
-            │             │             │
-            └─────────────┼─────────────┘
-                          ▼
-                 ┌─────────────────┐
-                 │ Human-Controlled│
-                 │   Autonomy      │
-                 └─────────────────┘
-```
-
-The interesting problem isn't:
-
-> **"Can an AI generate code?"**
-
-The interesting problem is:
-
-> **"Can an AI reliably understand a task, plan the work, operate tools, observe the results, verify its actions, recover from failure, and remain under meaningful human control?"**
-
-That's the direction I'm exploring with ECHA.
-
----
-
-# 📈 GitHub Activity
+## 🧠 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshwar-gajula&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshwar-gajula&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eshwar-gajula&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cs,bash&theme=dark" />
 </p>
 
 ---
 
-# 🌐 Find Me
+## 🤖 AI / ML
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen-5B4BDB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+`LLMs` · `Local AI` · `Transformers` · `PEFT` · `BitsAndBytes` · `Accelerate` · `Agent Systems`
+
+---
+
+## 🧩 Agent Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,nodejs,python&theme=dark" />
+</p>
+
+`Agent Architecture` · `Planning` · `Tool Calling` · `Tool Registry` · `Memory` · `Permissions` · `Auditing` · `Verification` · `Recovery`
+
+---
+
+## 🛡️ Security
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" />
+</p>
+
+`Red Teaming` · `Recon` · `Web Security` · `Network Security` · `Vulnerability Assessment` · `AppSec`
+
+---
+
+## 🌐 Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,nodejs,flask&theme=dark" />
+</p>
+
+---
+
+## ⚙️ Systems / DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,rust,tauri,vite,docker,git,github,githubactions&theme=dark" />
+</p>
+
+---
+
+## 🗄️ Data
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+---
+
+# 🧠 Engineering Philosophy
+
+```text
+                 ┌──────────────┐
+                 │   PROBLEM    │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │  UNDERSTAND  │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │     PLAN     │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │     BUILD    │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │     TEST     │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │    VERIFY    │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │    IMPROVE   │
+                 └──────┬───────┘
+                        │
+                        └──────→ REPEAT
+```
+
+### My rule:
+
+> **Don't just make it work. Understand why it works.**
+
+And when it breaks:
+
+> **Don't hide the failure. Study it.**
+
+---
+
+# 🔬 Learning Loop
+
+```text
+       LEARN
+         │
+         ▼
+       BUILD
+         │
+         ▼
+       BREAK
+         │
+         ▼
+       DEBUG
+         │
+         ▼
+     UNDERSTAND
+         │
+         ▼
+       SECURE
+         │
+         ▼
+      REBUILD
+```
+
+I learn primarily through **hands-on experimentation, labs, projects, debugging, and building systems from the ground up**.
+
+---
+
+# 🎯 Current Mission
+
+### `2026 → Building the foundation`
+
+```text
+                ECHA
+                 │
+        ┌────────┴────────┐
+        ▼                 ▼
+    AI Agent          Cybersecurity
+        │                 │
+        ▼                 ▼
+  Local Models       Red Teaming
+        │                 │
+        └────────┬────────┘
+                 ▼
+             Automation
+                 │
+                 ▼
+        Systems Engineering
+```
+
+My long-term goal is to grow into a strong **Cybersecurity / Red Team engineer** while developing deep expertise in **AI agents, local AI, automation, and systems engineering**.
+
+---
+
+# 🌌 The Bigger Idea
+
+The question that interests me most isn't:
+
+```text
+"Can AI generate code?"
+```
+
+It's:
+
+```text
+Can an AI system...
+
+    understand a goal
+          ↓
+       make a plan
+          ↓
+      use real tools
+          ↓
+       observe reality
+          ↓
+     verify its work
+          ↓
+    detect its mistakes
+          ↓
+      recover safely
+          ↓
+       improve the loop?
+```
+
+**That's the problem I'm exploring with ECHA.**
+
+---
+
+# 🌐 Find Me Elsewhere
+
+<p align="center">
+
+<!-- GitHub -->
 
 <a href="https://github.com/eshwar-gajula">
-<img src="https://img.shields.io/badge/GitHub-eshwar--gajula-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<!-- TryHackMe — replace URL -->
+
+<a href="YOUR_TRYHACKME_URL">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+
+<!-- Hugging Face — replace URL -->
+
+<a href="YOUR_HUGGINGFACE_URL">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+
+<!-- Website — replace URL -->
+
+<a href="YOUR_WEBSITE_URL">
+<img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<!-- Instagram — replace URL -->
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<!-- Snapchat — replace URL -->
+
+<a href="YOUR_SNAPCHAT_URL">
+<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+</a>
+
+<!-- Email -->
+
 <a href="mailto:eshwargajula31@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-# 🤝 Interested In
-
-I'm interested in collaborating, learning, and exchanging ideas around:
-
-`AI Agents`
-
-`Cybersecurity`
-
-`Red Teaming`
-
-`Security Engineering`
-
-`Local AI`
-
-`Developer Tools`
-
-`Automation`
-
-`Systems Engineering`
-
-`AI × Security`
-
----
+# 📊 GitHub
 
 <p align="center">
 
-### 🧠 Building intelligence.
+<img src="https://github-readme-stats.vercel.app/api?username=eshwar-gajula&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
 
-### 🛡️ Engineering security.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshwar-gajula&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
-### ⚙️ Automating execution.
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=eshwar-gajula&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🛰️ Currently Building
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│                    E C H A                               │
+│                                                          │
+│       Autonomous Engineering + Security Platform         │
+│                                                          │
+│   [ Agent ] [ Tools ] [ Memory ] [ Security ] [ UI ]     │
+│                                                          │
+│                  STATUS: BUILDING                         │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+### 🧠 BUILD INTELLIGENCE
+
+### 🛡️ ENGINEER SECURITY
+
+### ⚙️ AUTOMATE EXECUTION
 
 <br>
 
-**Precision in shadows.**
+**`Precision in shadows.`**
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer" />
 
-</p>
+</div>
