@@ -60,8 +60,8 @@ My current focus is building **ECHA**, a long-term AI + cybersecurity engineerin
 </p>
 
 <p align="center">
-  <strong>"Sometimes you gotta run before you can walk."</strong>
-  <strong>"Don't build the machine that follows commands. Build the system that understands the mission."</strong>
+  <i><strong>"Sometimes you gotta run before you can walk."</strong></i></br>
+  <i><strong>"Don't build the machine that follows commands. Build the system that understands the mission."</strong></i>
 </p>
 
 The idea of building intelligent systems that can understand context, interact with tools, automate complex workflows, and evolve over time is one of the inspirations behind **ECHA**.
