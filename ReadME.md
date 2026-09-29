@@ -56,11 +56,12 @@ My current focus is building **ECHA**, a long-term AI + cybersecurity engineerin
 # 🤖 The Inspiration
 
 <p align="center">
-  <img src="https://media.giphy.com/media/GdU1nSlWfKZDRdaVci/giphy.gif" width="420" alt="Tony Stark JARVIS GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNldXowOTEzanN2ZHk4dDlkb2xnY2l2YW44OGMydzdma2g4dDE5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YeXKsgwj7HOtuNgKc8/giphy.gif" width="420" alt="Tony Stark JARVIS GIF" />
 </p>
 
 <p align="center">
   <strong>"Sometimes you gotta run before you can walk."</strong>
+  <strong>"Don't build the machine that follows commands. Build the system that understands the mission."</strong>
 </p>
 
 The idea of building intelligent systems that can understand context, interact with tools, automate complex workflows, and evolve over time is one of the inspirations behind **ECHA**.
